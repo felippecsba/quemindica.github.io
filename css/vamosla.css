@@ -1,0 +1,25 @@
+
+.todasVamosLa {
+    padding: 4rem 0;
+  }
+  
+  .conteudoVamosLa,
+  .conteduoGerenciaProjetos {
+    justify-content: space-between;
+  }
+  
+  .link-Terciaria {
+    font-size: 1.25rem;
+    font-weight: bold;
+    line-height: 1.875rem;
+    color: var(--corTerciaria);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  .link-Terciaria i {
+    margin-left: 0.5rem;
+  }
+  

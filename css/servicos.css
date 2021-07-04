@@ -1,0 +1,34 @@
+/*
+.todosServicos {
+    padding-top: 5.125rem;
+    padding-bottom: 5.125rem;
+  }
+  .coluna,
+  .blocoServicos {
+    width: 45%;
+  }
+  
+  .blocosNumeros {
+    flex-wrap: wrap;
+  }
+  
+  .blocoServicos,
+  .conteudoVamosLa,
+  .conteduoGerenciaProjetos {
+    margin-bottom: 2.5rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .blocoServicos i {
+    font-size: 1.625rem;
+    margin-right: 1rem;
+  }
+
+*/
+
+.todosServicos {
+  padding-top: 5.125rem;
+  padding-bottom: 5.125rem;
+}
+

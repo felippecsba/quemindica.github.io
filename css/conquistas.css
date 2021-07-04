@@ -1,0 +1,41 @@
+
+.todasConquistas {
+    padding-top: 3rem;
+  }
+  
+  .blocosNumeros {
+    padding-top: 3rem;
+    
+  }
+  
+  .blocosNumeros,
+  .blocoConquistas {
+    margin-bottom: 2.5rem;  
+  }
+
+  .blocoConquistas {
+    border-radius: 2rem;
+    -webkit-box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.2); 
+    box-shadow: 5px 5px 30px -5px rgba(0,0,0,0.2);
+  }
+
+  .blocoConquistas p {
+    padding-left: 1rem ;
+    padding-right: 1rem ;
+  }
+
+  
+  .blocoConquistas i {
+    font-size: 5rem;
+    padding-bottom: 2rem;
+  }
+
+  .blocoConquistas i {
+    font-size: 5rem;
+    padding-bottom: 2rem;
+  }
+
+  .conteudo .tituloDeSessao {
+    width: 80%;
+  }
+
